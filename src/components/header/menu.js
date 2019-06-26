@@ -5,6 +5,7 @@ const Menu = () => (
         <li>About us</li>
         <li>Coaches</li>
         <li>Testimonials</li>
+        <li>Pepe messing with your code</li>
     </ul>
 )
 
